@@ -4,7 +4,9 @@ I chose the GNU General Public License v3.0 because I need this GitHub to be acc
 The general repositories that MSU suggests uploading data to includes: Dryad, Zenodo, and Icpsr. However, there are also other disciplinary repositories that they suggest. These include PLOS, Scientific Data, and NIH.
 # 3) How would using GitHub help make your data/code align with FAIR Protocols?
 By using GitHub, the data collected from the Bridger Bowl Wetland project would be easily accessible to anyone interested in the project. It would also allow people to download data in an easy to use format so that they can do future analysis regarding new topics. Since it would be on the GitHub website, the data would be easily findable and accessible. Since all the data would be converted into a CSV format, the data would be easily interpretable and resusable. All the data would also include previous reports that would be easily downloaded and read through. This way, all the data from previous years can have context, is in one location that is easy to use, are not lost on a remote server.
-What are the advantages of making your data/code more widely accessible?
-What are the disadvantages of making your data/code more widely accessible?
-What data/code from your grad project would you envision publishing on GitHub?
-What data/code would you not publish? Why?
+# 4) What are the advantages of making your data/code more widely accessible?
+When the data is more accessible, it make knowledge transfer much more efficient. New people that are introduced to the project (i.e. new grad students) can have all of the data in one spot, rather than scattered over various platforms. Also, when technology changes in the future, the data will still be able to be interpreted and will not be lost. This will also make it easier for government agencies to check whether or not the wetland is mneeting all of the pollutant removal requirements. For example, the DEQ would be able to easily see the all the data and would be able to look through past years data in order to understand the progression of the system.
+# 5) What are the disadvantages of making your data/code more widely accessible?
+When the code is made more accessible, there comes the risk of the data being misintrepretted or altered. Many people in the wastewater treatmen field see wetlands as a threat to their current systems becasue they are new. Some parties that rely on 
+# 6) What data/code from your grad project would you envision publishing on GitHub?
+# 7) What data/code would you not publish? Why?
